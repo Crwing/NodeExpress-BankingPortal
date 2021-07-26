@@ -20,7 +20,7 @@
             }
         ],
         "prior_balance": 33553.21,
-        "balance": 35535
+        "balance": 35658
     },
     "checking": {
         "unique_name": "checking",
@@ -57,7 +57,7 @@
             }
         ],
         "prior_balance": 2111,
-        "balance": 300.29999999999995
+        "balance": 177.29999999999995
     },
     "credit": {
         "unique_name": "credit",
